@@ -2,7 +2,7 @@
 
 ## NAME
 
-`iaupload` - Download files from [Internet Archive](http://archive.org).
+`iadownload` - Download files from [Internet Archive](http://archive.org).
 
 ## SYNOPSIS
 
